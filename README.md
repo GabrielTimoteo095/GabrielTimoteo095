@@ -1,6 +1,6 @@
 # Olá, mundo! 👋 Eu sou Gabriel Timoteo
 
-Sou um(a) desenvolvedor(a) iniciante apaixonado(a) por tecnologia e em transição para o mundo da programação. Atualmente, meu foco principal é dominar o **Python** e suas maravilhas! 🐍
+Sou um desenvolvedor iniciante apaixonado por tecnologia e em transição para o mundo da programação. Atualmente, meu foco principal é dominar o **Python** e suas maravilhas! 🐍
 
 ### 🚀 Sobre mim
 - 🎓 Estudando lógica de programação e Python (atualmente fazendo cursos na Alura.
@@ -11,8 +11,8 @@ Sou um(a) desenvolvedor(a) iniciante apaixonado(a) por tecnologia e em transiç�
 ### 🛠️ Minhas Ferramentas e Tecnologias
 > Ainda construindo meu cinto de utilidades, mas já me aventurando com:
 
-- **Linguagens:** Python
-- **Ferramentas:** Git, GitHub, VS Code, Terminal
+- **Linguagens:** Python, JavaScript.
+- **Ferramentas:** Git, GitHub, VS Code, Terminal.
 - **Sistemas:** Windows (sobrevivendo aos conflitos de PATH! 😅)
 
 ### 📂 Meus Projetos Iniciais
