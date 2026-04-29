@@ -11,18 +11,17 @@ Sou um(a) desenvolvedor(a) iniciante apaixonado(a) por tecnologia e em transiç�
 ### 🛠️ Minhas Ferramentas e Tecnologias
 > Ainda construindo meu cinto de utilidades, mas já me aventurando com:
 
-- **Linguagens:** Python
+- **Linguagens:** Python, JavaScript
 - **Ferramentas:** Git, GitHub, VS Code, Terminal
 - **Sistemas:** Windows (sobrevivendo aos conflitos de PATH! 😅)
 
 ### 📂 Meus Projetos Iniciais
 Aqui estão alguns projetinhos que estou usando para treinar:
-- [Nome do Projeto 1](link-para-o-repositorio) - *Um script simples que calcula [X].*
-- [Nome do Projeto 2](link-para-o-repositorio) - *Minha primeira aventura com [alguma biblioteca, ex: Tkinter ou Requests].*
+
 
 ### 📫 Como me encontrar
-- **LinkedIn:** [Seu Perfil do LinkedIn](link-para-seu-linkedin)
-- **E-mail:** [Seu e-mail de contato]
+- **LinkedIn:** www.linkedin.com/in/gabriel-timoteo-440253224
+- **E-mail:** gabrielallan960@gmail.com
 
 ---
 *"Todo expert um dia foi um iniciante."* 🚀
