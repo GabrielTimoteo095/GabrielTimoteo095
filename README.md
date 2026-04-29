@@ -3,7 +3,7 @@
 Sou um(a) desenvolvedor(a) iniciante apaixonado(a) por tecnologia e em transição para o mundo da programação. Atualmente, meu foco principal é dominar o **Python** e suas maravilhas! 🐍
 
 ### 🚀 Sobre mim
-- 🎓 Estudando lógica de programação e Python (atualmente fazendo cursos na [ex: Alura / Curso em Vídeo]).
+- 🎓 Estudando lógica de programação e Python (atualmente fazendo cursos na Alura.
 - 💻 Focando em criar scripts de automação e entender os fundamentos da linguagem.
 - 🌱 No momento, aprendendo sobre: **Variáveis, Loops, Funções e Orientação a Objetos em Python.**
 - 💡 Objetivo para este ano: Construir meu primeiro projeto completo e contribuir para um projeto Open Source.
