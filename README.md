@@ -17,8 +17,7 @@ Sou um desenvolvedor iniciante apaixonado por tecnologia e em transição para o
 
 ### 📂 Meus Projetos Iniciais
 Aqui estão alguns projetinhos que estou usando para treinar:
-- [Nome do Projeto 1](link-para-o-repositorio) - *Um script simples que calcula [X].*
-- [Nome do Projeto 2](link-para-o-repositorio) - *Minha primeira aventura com [alguma biblioteca, ex: Tkinter ou Requests].*
+- [CAlculadora de Funcões]([link-para-o-repositorio](https://github.com/GabrielTimoteo095/calculadora-funcoes)) - *Um script simples que calcula várias funções e que estoua aprimorando ainda.*
 
 ### 📫 Como me encontrar
 - **LinkedIn:** www.linkedin.com/in/gabriel-timoteo-440253224
